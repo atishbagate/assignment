@@ -1,0 +1,18 @@
+/* Assignment on Data Transfer from called function to calling function */
+?
+?
+[a->] Design a function to return the area of square and print it in main function. 
+?
+[b->] Design a function to return the area of trapizium and print it in main function. 
+?
+[c->] Design a function to return the surfacearea of cylinder and print it in main function. 
+?
+[d->] Design a function to return the volume of sphere and print it in main function. 
+?
+[e->] Design a function to return the peremeter of cone and print it in main function. 
+?
+/*------------------------ NOTE-----------------------------*/
+1) All functions should have tracing statements.
+2) All programs should have stack memory diagrams.
+3) All programs should have comments about the logic.
+4) Feel free to browse the formule pn the internet.
