@@ -1,0 +1,8 @@
+Assignment on functions
+1. Write a Java method to find the smallest number among three numbers.
+2. Write a Java method to compute the average of three numbers, return true if the average is even else return false.
+3. Given a number from 1-12, return the name of the appropriate month.
+4. Given a number from 1-7, return the name of the appropriate week.
+5. Write a function which returns a true if the sum of the numbers with in the range is even else return false.
+Note
+For all the programs pass the input values from the calling method.
