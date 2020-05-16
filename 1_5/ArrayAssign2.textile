@@ -1,0 +1,21 @@
+--------------Assignment on Array Data transfer------------
+
+a] design a function to which accepts a array of integrs and returns its average value.
+eg->i/p [10,20,30] 
+    o/p   20
+
+b] design a function which accepts an array of charecters and returns an array with the reverse characters.
+eg->i/p ['b','h','k'] 
+    o/p ['k','b'.'h']
+
+c] design a function which will take all your semisters percentages as infut and create an array by storing them all with  decimal values.
+eg->i/p 50.545,50,87
+    o/p [50.545,50.0,87.0]
+
+d] design a function which takes an array of integers and return an new array with only even values in same positions and the odd ones replaced by 0.
+eg->i/p [10,23,43]
+    o/p [10,0,0]
+    
+e] design a function which will take an array as input and return an new array whith twice the size of original and the values copied twice in the new one.
+eg->i/p [10,20,30]
+    o/p [10,20,30,10,20,30]
