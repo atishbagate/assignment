@@ -1,0 +1,23 @@
+-------------------------- String Assign------------------------
+a] Design a function which will return a character value specified at the given input index.
+2] Design a function which will return a String which is reverse of the input string.
+3] Design a function which will count the number of vowels in  the given string.
+4] Design a function which will take two Strings as an input ad return true if they are same else returns false.
+------------------------------------------------------------------------
+5} Design a function which will return an array of non repeating characters. 
+
+i/p -> "idiots"
+o/p -> [d,o,t,s]
+
+------------ Algorithem ----------------
+func[to convert String to array]         -> i/p string  = "idiots"
+                                            o/p array    = [i,d,i,o,t,s]
+
+func[sort the array]                    -> i/p array = [i,d,i,o,t,s]
+                                           o/p array = [d,i,i,o,s,t]
+
+func[create an array with unique chars] -> i/p array = [d,i,i,o,s,t]
+                                           o/p array = [d,o,t,s,_,_]
+----------- optional -------------
+func[remove empty elements]             -> i/p array = [d,o,t,s,_,_]
+                                           o/p array = [d,o,t,s]

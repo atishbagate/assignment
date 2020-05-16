@@ -1,0 +1,13 @@
+a] Design a function which will return a character value specified at the given input index.
+
+2] Design a function which will return a String which is reverse of the input string.
+
+3] Design a function which will count the number of vowels in  the given string.
+
+4] Design a function which will take two STrings as an input ad return true if they are same else returns false.
+
+5} Dwsign a function which will return a array of non repeating characters.
+
+
+Q= how to convert char into string retrun.
+Q= how to return char/int variable to main function.
