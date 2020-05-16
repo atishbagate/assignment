@@ -1,0 +1,18 @@
+/* Assignment on Data Transfer from called function to calling function */
+
+
+[a->] Design a function to return the area of square and print it in main function by taking the required inputs from calling menthod. 
+
+[b->] Design a function to find the area of trapizium and print it in main function by taking the required inputs from calling menthod and print the result in a dedicated printvalue function. 
+
+[c->] Design a function to return the surfacearea of cylinder and print it in main function by taking the required inputs from calling menthod. 
+
+[d->] Design a function to the volume of sphere and print it in main function by taking the required inputs from calling menthod and also print the result in a dedicated printvalue function.  
+
+[e->] Design a function to return the peremeter of cone to calling function by taking the required inputs from calling menthod and print the result in a dedicated printvalue function.  
+
+/*------------------------ NOTE-----------------------------*/
+1) All functions should have tracing statements.
+2) All programs should have stack memory diagrams.
+3) All programs should have comments about the logic.
+4) Feel free to browse the formule pn the internet.
