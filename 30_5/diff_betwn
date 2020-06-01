@@ -1,0 +1,16 @@
+---------------->difference between<-----------------------------
+
+----------------------------------------------------------------
+           S.I.B              |                I.I.B
+
+1) STATIC INITIALIZER BLOCK   | 1) INSTANCE INITIALIZER BLOCK
+
+2) USED TO INITIALIZE THE     | 2) IT IS ALSO USED TO INITIALIZE 
+DATA MEMBERS OF THE CLASS     |    THE DATA MEMBERS OF THE CLASS
+
+3) THIS BLOCK IS EXE AS SOON   | 3) THIS BLOCK EXE WHEN OBJECT OF 
+  AS CLASS IS LOADED INTO JVM. |    THA CLASS IS CREATED.
+
+4) THIS CAN BE SPECIFIED BY     | 4) THIS CAN BE SPECIFIED BY NOT 
+  WORD STATIC IN FRONT OF BLOCK.|    WRITING THE WORD "STATIC" IN FRONT.
+

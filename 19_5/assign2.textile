@@ -1,0 +1,5 @@
+a]
+create a class for a Collage and make sure the details of the callage can be initialized by a constructor, modified by a function and retrived by a function and deleted by a function. 
+
+b]
+Create a program to save the contact details of a person and add the neccessary function to perform updation,retrival and deletion.
